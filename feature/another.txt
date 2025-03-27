@@ -4,3 +4,6 @@ Esta linea se modifica en feature2
 este archivo se cambio localmente
 
 Esta linea se modifica en feature2
+
+
+otra modificacion despues de push u rama 2
