@@ -1,4 +1,6 @@
-Otro archivo de test
+Esta linea se modifica en feature2
 
 
 este archivo se cambio localmente
+
+Esta linea se modifica en feature2
