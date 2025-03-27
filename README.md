@@ -1,4 +1,3 @@
 # CursoGit
 
-Este es el primer commit desde github. He editado en Github
-
+Esta linea se agrego mientras se resolvia los conflictos
